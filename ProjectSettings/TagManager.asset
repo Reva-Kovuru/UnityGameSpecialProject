@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Mob
+  - Pnigga_1
+  - Boundaries
+  - Player_Bullet
+  - First_Bound
+  - Second_Bound
+  - Mob_Spawner
+  - Third_Bound
+  - Username
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - mobs
+  - Water
+  - UI
+  - 'background '
+  - pnigga
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 658169395
+    locked: 0
+  - name: object
+    uniqueID: 395379593
+    locked: 0
+  - name: attacks
+    uniqueID: 371687441
+    locked: 0
+  - name: foreground
+    uniqueID: 1112736007
+    locked: 0
+  - name: User I
+    uniqueID: 2755590945
+    locked: 0
+  m_RenderingLayers:
+  - Default

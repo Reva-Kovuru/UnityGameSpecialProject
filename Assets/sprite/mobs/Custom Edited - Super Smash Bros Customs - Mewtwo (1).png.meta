@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: ab9844ebb049d7742a3d0590b3f91835
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 235595457386627456
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_0
+  - first:
+      213: 851118090914840325
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_1
+  - first:
+      213: 7829977432704316512
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_2
+  - first:
+      213: -4860226824020898240
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_3
+  - first:
+      213: 3620218341100292082
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_4
+  - first:
+      213: -5831043998963373704
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_5
+  - first:
+      213: -5948082899666839033
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_6
+  - first:
+      213: -4260812396284726370
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_7
+  - first:
+      213: 4492911731483553470
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_8
+  - first:
+      213: 7156061310694527068
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_9
+  - first:
+      213: 5510239644298645556
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_10
+  - first:
+      213: -6478064768311295365
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_11
+  - first:
+      213: -5655609001166517629
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_12
+  - first:
+      213: -5996097978431523275
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_13
+  - first:
+      213: 387115406550978769
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_14
+  - first:
+      213: -8608630443534885626
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_15
+  - first:
+      213: -2755333249612328267
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_16
+  - first:
+      213: -5020233233151249894
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_17
+  - first:
+      213: -9203592860840828831
+    second: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355
+        width: 158
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081c93cf1d0054300800000000000000
+      internalID: 235595457386627456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 355
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f33eee467cfcb00800000000000000
+      internalID: 851118090914840325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 355
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0647aa37dfaa9ac60800000000000000
+      internalID: 7829977432704316512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 355
+        width: 316
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ec86244710d8cb0800000000000000
+      internalID: -4860226824020898240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 82
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f703a686699d3230800000000000000
+      internalID: 3620218341100292082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 282
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8796d1c8068f31fa0800000000000000
+      internalID: -5831043998963373704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 282
+        width: 92
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a58c6fd1a247da0800000000000000
+      internalID: -5948082899666839033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 75
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e933ed843bd8ed4c0800000000000000
+      internalID: -4260812396284726370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 144
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe23425a670a5e30800000000000000
+      internalID: 4492911731483553470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 78
+        width: 143
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c501ddef8df6f4360800000000000000
+      internalID: 7156061310694527068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 144
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43012b113cd487c40800000000000000
+      internalID: 5510239644298645556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 78
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7205dc5a6a4916a0800000000000000
+      internalID: -6478064768311295365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 78
+        width: 163
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ac7f0049d3381b0800000000000000
+      internalID: -5655609001166517629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 143
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536b62548a499cca0800000000000000
+      internalID: -5996097978431523275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d05d86496f4f5500800000000000000
+      internalID: 387115406550978769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 135
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d5d7ad830088880800000000000000
+      internalID: -8608630443534885626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_16
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2d803020713c9d0800000000000000
+      internalID: -2755333249612328267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12b868097c845ab0800000000000000
+      internalID: -5020233233151249894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Super Smash Bros Customs - Mewtwo (1)_18
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 93
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160e2484e05464080800000000000000
+      internalID: -9203592860840828831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_0: 235595457386627456
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_1: 851118090914840325
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_10: 5510239644298645556
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_11: -6478064768311295365
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_12: -5655609001166517629
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_13: -5996097978431523275
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_14: 387115406550978769
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_15: -8608630443534885626
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_16: -2755333249612328267
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_17: -5020233233151249894
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_18: -9203592860840828831
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_2: 7829977432704316512
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_3: -4860226824020898240
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_4: 3620218341100292082
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_5: -5831043998963373704
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_6: -5948082899666839033
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_7: -4260812396284726370
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_8: 4492911731483553470
+      Custom Edited - Super Smash Bros Customs - Mewtwo (1)_9: 7156061310694527068
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
